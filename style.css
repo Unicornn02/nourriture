@@ -1,0 +1,150 @@
+body{
+	background-color:#ECDCDA;
+	padding:150px;
+	font-family: 'Cormorant Garamond', serif;
+}
+
+h1{
+	color:#3B3933;
+	text-align:center;
+}
+
+img{
+	width:400px;
+	height:400px;
+	object-fit: center;
+}
+
+
+.big-size{
+	width:700px;
+	height:700px;
+	object-fit:cover;
+	padding:	50px;
+}
+
+.small-size{
+	width:16%;
+	height:320px;
+	object-fit:cover;
+}
+
+.element-center {
+	text-align:	center;
+}
+
+div	{
+	padding-top: 10px;
+	
+}
+
+.pate {
+	background-color: #EACCC3;
+	padding-right: 50px;
+	padding-left: 50px;
+	display: flex;
+	justify-content: space-around;
+	border: 2px solid #D8A57F;
+	
+}
+
+.video {
+	background-color: #F5EFE0;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+
+.poisson{
+	background-color: #EACCC3;
+	padding-right: 50px;
+	padding-left: 50px;
+	display: flex;
+	justify-content: space-around;
+	border: 2px solid #D8A57F;
+}
+
+.viande{
+	background-color: #EACCC3;
+	padding-right: 50px;
+	padding-left: 50px;
+	display: flex;
+	justify-content: space-around;
+	border: 2px solid #D8A57F;
+}
+
+.fruit {
+	background-color: #EACCC3;
+	padding-right: 50px;
+	padding-left: 50px;
+	display: flex;
+	justify-content: space-around;
+	border: 2px solid #D8A57F;
+}
+
+.video {
+	background-color: #EACCC3;
+	padding-right: 50px;
+	padding-left: 50px;
+	display: flex;
+	justify-content: space-around;
+	border: 2px solid #D8A57F;
+}
+
+.brunch {
+	background-color: #EACCC3;
+	padding-right: 50px;
+	padding-left: 50px;
+	display: flex;
+	justify-content: space-around;
+	border: 2px solid #D8A57F;
+}
+
+.element-aligned {
+	display: flex;
+	justify-content: space-around;
+	border: 2px solid #D8A57F;
+}
+
+.navigation-aligned{
+	display:flex;
+	justify-content: space-around;
+	padding: 30px
+}
+
+
+.barre {
+	padding-top: 15px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 15px;
+	background-color: #ECDCDA;
+	border: 5px solid #ECDCDA;
+	display: flex;
+	justify-content: space-around;
+
+}
+.element-center {
+	background: #EACCC3
+
+} 
+
+a{
+	color: black; 
+}
+
+a:hover {
+	color:#E7C252;
+	font-size: 22px; 
+
+}
+
+
+
+
+
+
+
+
+
+
+
